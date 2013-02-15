@@ -19,3 +19,8 @@ Choose up to 3 styles:
 __magic__  
 __heart__  
 __disco__
+  
+Click [here](http://bigassmessage.herokuapp.com/) for a demo.
+  
+99.9% not my work  
+[http://bigassmessage.com](http://bigassmessage.com)
