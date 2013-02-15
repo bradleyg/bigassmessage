@@ -1,0 +1,23 @@
+{
+  "name": "bigassmessage-api",
+  "description": "A light API wrapper for bigassmessage.com",
+  "keywords": [
+    "big",
+    "ass",
+    "message",
+    "api"
+  ],
+  "version": "0.0.1",
+  "author": "Bradley Griffiths <bradley.griffiths@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bradleyg/bigassmessage.git"
+  },
+  "main": "./big.js",
+  "dependencies": {
+    "request": "2.12.0"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
